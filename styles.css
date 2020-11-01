@@ -1,8 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    background-image: url(https://static.vecteezy.com/system/resources/previews/000/588/660/non_2x/abstract-blur-gradient-background-with-trend-pink-purple-violet-and-blue-colors-for-deign-concepts-wallpapers-web-presentations-and-prints-vector-illustration.jpg);
-    background-color:transparent;
+    background-image: linear-gradient( 115deg, rgba(21, 145, 228, 0.8), rgba(55, 156, 238, 0.7) ), url(https://static.vecteezy.com/system/resources/previews/000/588/660/non_2x/abstract-blur-gradient-background-with-trend-pink-purple-violet-and-blue-colors-for-deign-concepts-wallpapers-web-presentations-and-prints-vector-illustration.jpg);
     display: flex;
     justify-content: center;
 }
